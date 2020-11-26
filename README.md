@@ -1,6 +1,10 @@
 # SimpleGoServer
 
+[goLogo]
+
 A simple webservice implemented in Go. Used to learn Golang.
+
+go build .
 
 user:
 ID
@@ -13,3 +17,4 @@ Methods include:
 * PUT: to update an existing user
 * DELETE: to remove a user
 
+[goImage.png]
